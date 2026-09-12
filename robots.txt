@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leakdetectioninlouisville.netlify.app/sitemap.xml
